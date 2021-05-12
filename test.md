@@ -19,6 +19,8 @@ Too bad, since I would have loved to have a collaborative MarkDown editor with G
 
 The problem with lack of GitLab support, on the other hand, means that we will have to share everything we write with MicroSoft. Out of the frying pan and into the fire.
 
+Well, I'm back here now. We are getting our own server and maybe we can install this there and will have no need for Google. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM3OTI4MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM2MzM4MjMsLTE3MDM3OTI4MDZdfQ
+==
 -->
